@@ -1,0 +1,9 @@
+/fontes/.classpath
+/db/blogdb.tmp
+/db/blogdb.lck
+/db/blogdb.log
+/db/blogdb.properties
+/db/blogdb.script
+/fontes/build/classes
+*.class
+.DS_Store
