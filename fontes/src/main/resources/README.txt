@@ -1,0 +1,1 @@
+Diretório para arquivos de configuração que presisam estar no classpath do projeto.
